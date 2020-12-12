@@ -12,8 +12,8 @@
     "path": null
   },
   "archive": {
-    "registry": "docker.io",
-    "repository": "edwardsdl/sample-java"
+    "registry": "indlin2522.corp.amdocs.com:6009",
+    "repository": "dockertest"
   },
   "deploy": {
     "containerPort": 8080
