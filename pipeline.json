@@ -16,6 +16,6 @@
     "repository": "dockertest"
   },
   "deploy": {
-    "containerPort": 8085
+    "containerPort": 8080
   }
 }
